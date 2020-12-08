@@ -1,0 +1,10 @@
+#passwords
+#authocodes
+#local settings
+#utility files
+#DS_Store (hidden file)
+
+
+
+.DS_Store
+secrets.txt
